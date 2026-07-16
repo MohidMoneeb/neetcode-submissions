@@ -16,7 +16,7 @@ re-derive them under pressure, and to show my thinking, not just my output.
 | 2 | Valid Anagram | Arrays & Hashing | Easy | [notes](writeups/valid-anagram.md) |
 | 3 | Two Sum | Arrays & Hashing | Easy | [notes](writeups/two-sum.md) |
 
-Patterns I'm collecting as I go: [patterns.md](patterns.md)
+Patterns I'm collecting as I go: [PATTERNS.md](PATTERNS.md)
 
 ---
 
